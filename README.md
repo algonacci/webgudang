@@ -1,6 +1,10 @@
 # Web Aplikasi Inventory Gudang
 
-Web aplikasi inventory gudang ini di buat memakai framework codeigniter yang sangat sederhana
+Web aplikasi inventory gudang ini di buat memakai framework CodeIgniter yang sangat sederhana
+
+# Syarat aplikasi
+
+Aplikasi ini berjalan dengan baik tanpa error di PHP versi 7.4.19 dengan Laragon
 
 # User database
 <strong>Admin</strong><br>
